@@ -1,17 +1,84 @@
 {
+  "warn" : [
+    "blood"
+    ,"otc"
+    ,"medication"
+    ,"Diet"
+    ,"activities"
+    ,"physician"
+    ,"clinician"
+    ,"fda"
+    ,"oximeter"
+    ,"x-rays"
+    ,"temperature"
+    ,"body"
+    ,"glucose"
+    ,"oxygen"
+    ,"medical"
+    ,"Medicine"
+    ,"Surgery"
+    ,"Medical"
+    ,"Hematology"
+    ,"Endocrinology"
+    ,"ECG"
+    ,"Clinical"
+    ,"Thoracic"
+    ,"Pathology"
+    ,"Digestive"
+    ,"Cardial"
+    ,"Traditional"
+    ,"Lung"
+    ,"Vasculocardiology"
+    ,"Urology"
+    ,"MR"
+    ,"Dndoscope"
+    ,"Neurology"
+    ,"Oncological"
+    ,"SCTSCt"
+    ,"Hemodialyses"
+    ,"Neurological"
+    ,"UItrasonic"
+    ,"Pneumology"
+    ,"Endocrinology"
+    ,"GeneralSurgery"
+    ,"Oncology"
+    ,"Urology"
+    ,"Neurology"
+    ,"Pediatric"
+    ,"Isotopic"
+    ,"ECT"
+    ,"Psychology"
+    ,"Deparment"
+    ,"COVID"
+    ,"virus"
+    ,"WHO"
+    ,"血"
+    ,"药"
+    ,"饮食"
+    ,"医生"
+    ,"临床"
+    ,"血氧"
+    ,"射线"
+    ,"温度"
+    ,"身体"
+    ,"健康"
+    ,"葡萄糖"
+    ,"氧气"
+    ,"医疗"
+    ,"儿科"
+    ,"感冒"
+    ,"发烧"
+    ,"心率"
+    ,"内科"
+    ,"外壳"
+    ,"电图"
+    ,"肾"
+    ,"肝"
+    ,"脾"
+    ,"骨科"
+    ,"新冠"
+    ,"病毒"
 
-    "name":"网站",
-
-    "num":3,
-
-    "sites": [
-
-        { "name":"Google", "info":[ "Android", "Google 搜索", "Google 翻译" ] },
-
-        { "name":"Runoob", "info":[ "菜鸟教程", "菜鸟工具", "菜鸟微信" ] },
-
-        { "name":"Taobao", "info":[ "淘宝", "网购" ] }
-
-    ]
-
+  ],
+  "version" : 2
 }
